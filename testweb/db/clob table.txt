@@ -1,0 +1,6 @@
+create table t_clob
+( seq number, subject varchar2(200) , content CLOB, create_date date);
+
+
+create table t_blob
+( seq number, subject varchar2(200) , content BLOB, create_date date)
