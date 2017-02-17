@@ -11,7 +11,7 @@
 
 <h2>
 <font color=#DB1260>
-Failover Test
+Failover Test(New Version!!)
 </font>
 </h2>
 
